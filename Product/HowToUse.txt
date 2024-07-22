@@ -1,0 +1,4 @@
+Hi!
+Running this program is pretty simple. If you don't have Apache NetBeans installed already, then do that.
+Afterwards, all you have to do is drag this file folder into your Documents > NetBeansProjects.
+Open up NetBeans, and you can run it from there.
